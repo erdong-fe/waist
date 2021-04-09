@@ -1,0 +1,13 @@
+.app {
+    
+}
+.grid-item-div {
+    padding: 16px 0;
+    margin: 8px 0px;
+}
+.ant-row .ant-col:nth-child(odd) .grid-item-div {
+    background: rgba(0,146,255,.75);
+}
+.ant-row .ant-col:nth-child(even) .grid-item-div {
+    background: #0092ff;
+}
