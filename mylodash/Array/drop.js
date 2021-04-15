@@ -1,0 +1,3 @@
+function drop(arr, n) {
+    
+}
