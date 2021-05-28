@@ -1,0 +1,10 @@
+.col:nth-child(odd) .item {
+    background: rgba(0,146,255,.75);
+}
+.col:nth-child(even) .item {
+    background: #0092ff;
+}
+.item {
+    padding: 16px 0;
+    margin: 8px 0px;
+}
